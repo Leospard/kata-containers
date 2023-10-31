@@ -2,6 +2,8 @@
 //
 // SPDX-License-Identifier: Apache-2.0 AND BSD-3-Clause
 
+// TODO: rafsv6 virtiofs backend implementation
+
 use std::any::Any;
 use std::collections::HashMap;
 use std::ffi::CString;
